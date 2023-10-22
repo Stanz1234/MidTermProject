@@ -49,6 +49,7 @@ nav img{
 .text-box p{
     background-color: rgb(240, 209, 169);
     box-shadow: 10px 10px 5px grey;
+    border: solid black;
 }
 
 .nav-links ul li a{
